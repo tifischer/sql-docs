@@ -16,7 +16,6 @@ ms.author: "haoqian"
 [!INCLUDE[sqlserver-ssis](../../includes/applies-to-version/sqlserver-ssis.md)]
 
 
-
 To secure the communication between Scale Out Master and Scale Out Workers, SSIS Scale Out uses two certificates - one for the Master and one for the Workers. 
 
 ## Scale Out Master certificate
