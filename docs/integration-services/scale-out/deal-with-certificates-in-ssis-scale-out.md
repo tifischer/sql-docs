@@ -15,6 +15,7 @@ ms.author: "haoqian"
 
 [!INCLUDE[sqlserver-ssis](../../includes/applies-to-version/sqlserver-ssis.md)]
 
+Please update this doc because MakeCert.exe is depreciated and cannot be downloaded
 
 
 To secure the communication between Scale Out Master and Scale Out Workers, SSIS Scale Out uses two certificates - one for the Master and one for the Workers. 
