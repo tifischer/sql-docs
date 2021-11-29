@@ -1,3 +1,5 @@
+
+Please update this doc to include if it can be run as 32bit and/or 64bit and if it supports 32 and 64bit drivers to connectors like ODBC Drivers.
 ---
 title: Download SQL Server Data Tools (SSDT)
 description: "Learn about SQL Server Data Tools (SSDT). See how to install this database development tool set with Visual Studio 2019 and Visual Studio 2017."
